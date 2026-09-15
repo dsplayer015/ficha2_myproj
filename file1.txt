@@ -1,1 +1,2 @@
 Bom dia, exemplo file1
+fiz uma alteração
